@@ -1,4 +1,4 @@
-<h1 align="center"> Menu of Restaurant </h1>
+<h1 align="center"> Menu de Restaurante </h1>
 
 <p align="center">
 Meu primeiro projeto feito com a Rocketseat
@@ -17,10 +17,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Um projeto que simula um cardápio / menu de um restaurante. 
+Um projeto que simula um cardápio / menu de um restaurante.
 
+## 💙 Contato 
+nathangja09@outlook.com
 
 
 ---
-
 Feito com ♥ by Rocketseat.
